@@ -15,6 +15,10 @@ Passionate about open source, developer tools, scalable systems and process opti
 
 [strawberry] · [PyGithub] · [pytest_httpx] · [moto] · [typeguard] · [wait-on-check-action] · [mypy] · [SQLAlchemy]
 
+### Talks
+
+- [Writing Beautiful, Simple, and Safe Operations Scripts with Python][talk-pycon-it] — PyCon Italia
+
 ### Contact
 
 Best way to contact me is on LinkedIn.
@@ -36,4 +40,5 @@ Best way to contact me is on LinkedIn.
 [wait-on-check-action]: https://github.com/lewagon/wait-on-check-action/pulls?q=author%3AApakottur
 [mypy]: https://github.com/python/mypy/pulls?q=author%3AApakottur
 [SQLAlchemy]: https://github.com/sqlalchemy/sqlalchemy/pulls?q=author%3AApakottur
+[talk-pycon-it]: https://www.youtube.com/watch?v=VYlk1echRsM
 [LinkedIn]: https://www.linkedin.com/in/yossi-rozantsev/
