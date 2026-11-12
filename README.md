@@ -10,6 +10,7 @@ Passionate about open source, developer tools, scalable systems and process opti
 |---------|--------------|-------|-----------|
 | [shpyx] | Run shell commands in Python | ![stars][shpyx-stars] | ![downloads][shpyx-dl] |
 | [pgmig] | Generate migrations between Postgres databases | ![stars][pgmig-stars] | ![downloads][pgmig-dl] |
+| [unref] | Find unreferenced Python code | ![stars][unref-stars] | ![downloads][unref-dl] |
 
 ### Projects I've contributed to
 
@@ -32,6 +33,9 @@ Best way to contact me is on LinkedIn.
 [pgmig]: https://github.com/Apakottur/pgmig
 [pgmig-stars]: https://img.shields.io/github/stars/Apakottur/pgmig?style=social
 [pgmig-dl]: https://img.shields.io/pypi/dm/pgmig
+[unref]: https://github.com/Apakottur/unref
+[unref-stars]: https://img.shields.io/github/stars/Apakottur/unref?style=social
+[unref-dl]: https://img.shields.io/pypi/dm/unref
 [strawberry]: https://github.com/strawberry-graphql/strawberry/pulls?q=author%3AApakottur
 [PyGithub]: https://github.com/PyGithub/PyGithub/pulls?q=author%3AApakottur
 [pytest_httpx]: https://github.com/Colin-b/pytest_httpx/pulls?q=author%3AApakottur
