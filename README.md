@@ -8,9 +8,9 @@ Passionate about open source, developer tools, scalable systems and process opti
 
 | Project | What it does | Stars | Downloads |
 |---------|--------------|-------|-----------|
+| [unref] | Find unreferenced Python code | ![stars][unref-stars] | ![downloads][unref-dl] |
 | [shpyx] | Run shell commands in Python | ![stars][shpyx-stars] | ![downloads][shpyx-dl] |
 | [pgmig] | Generate migrations between Postgres databases | ![stars][pgmig-stars] | ![downloads][pgmig-dl] |
-| [unref] | Find unreferenced Python code | ![stars][unref-stars] | ![downloads][unref-dl] |
 
 ### Projects I've contributed to
 
