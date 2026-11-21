@@ -9,6 +9,7 @@ Passionate about open source, developer tools, scalable systems and process opti
 | Project | What it does | Stars | Downloads |
 |---------|--------------|-------|-----------|
 | [unref] | Python dead code finder | ![stars][unref-stars] | ![downloads][unref-dl] |
+| [unref-pre-commit] | pre-commit and prek hook for unref | ![stars][unref-pre-commit-stars] | — |
 | [shpyx] | Run shell commands in Python | ![stars][shpyx-stars] | ![downloads][shpyx-dl] |
 | [pgmig] | Generate migrations between Postgres databases | ![stars][pgmig-stars] | ![downloads][pgmig-dl] |
 
@@ -36,6 +37,8 @@ Best way to contact me is on LinkedIn.
 [unref]: https://github.com/Apakottur/unref
 [unref-stars]: https://img.shields.io/github/stars/Apakottur/unref?style=social
 [unref-dl]: https://img.shields.io/pypi/dm/unref
+[unref-pre-commit]: https://github.com/Apakottur/unref-pre-commit
+[unref-pre-commit-stars]: https://img.shields.io/github/stars/Apakottur/unref-pre-commit?style=social
 [strawberry]: https://github.com/strawberry-graphql/strawberry/pulls?q=author%3AApakottur
 [PyGithub]: https://github.com/PyGithub/PyGithub/pulls?q=author%3AApakottur
 [pytest_httpx]: https://github.com/Colin-b/pytest_httpx/pulls?q=author%3AApakottur
